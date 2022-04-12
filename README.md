@@ -2,6 +2,7 @@
 
 This app is a visual way to see merge sort, bubble sort, insertion sort and quick sort sorting algorithms in action. Available at: https://tuomaskivioja.github.io/SortingAlgorithmsVisualized/
 
+Idea inspired by Clement Mihailescu.
 
 ## Implementation
 
